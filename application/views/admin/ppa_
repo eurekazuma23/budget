@@ -1,0 +1,5 @@
+<div class="mid-content curve">
+	<span class="mid-content-title"><?php echo $c_title; ?></span>
+	<div class="content">
+	</div>
+</div>
